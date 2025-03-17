@@ -517,6 +517,12 @@
         - windows-2019
     - python:
         - '3.12'
+- notebook: notebooks/gemma3/gemma3.ipynb
+  skips:
+   - os:
+        - macos-13
+        - ubuntu-22.04
+        - windows-2019
 - notebook: notebooks/omniparser/omniparser.ipynb
   skips:
     - os:
