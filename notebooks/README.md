@@ -115,6 +115,7 @@
 - [Text to Image pipeline and OpenVINO with Generate API](./text-to-image-genai/text-to-image-genai.ipynb)
 - [Quantize Speech Recognition Models with accuracy control using NNCF PTQ API](./quantizing-model-with-accuracy-control/speech-recognition-quantization-wav2vec2.ipynb)
 - [Post-Training Quantization of PyTorch models with NNCF](./pytorch-post-training-quantization-nncf/pytorch-post-training-quantization-nncf.ipynb)
+- [Text Generation via Prompt Lookup Decoding using OpenVINO™](./prompt-lookup-decoding/prompt-lookup-decoding.ipynb)
 - [Optimize Preprocessing](./optimize-preprocessing/optimize-preprocessing.ipynb)
 - [OpenVINO Tokenizers: Incorporate Text Processing Into OpenVINO Pipelines](./openvino-tokenizers/openvino-tokenizers.ipynb)
 - [Convert models from ModelScope to OpenVINO](./modelscope-to-openvino/modelscope-to-openvino.ipynb)
@@ -133,7 +134,6 @@
 - [Big Transfer Image Classification Model Quantization pipeline with NNCF](./big-transfer-quantization/tensorflow-bit-image-classification-nncf-quantization.ipynb)
 - [Automatic Device Selection with OpenVINO™](./auto-device/auto-device.ipynb)
 - [Asynchronous Inference with OpenVINO™](./async-api/async-api.ipynb)
-- [Text Generation via Prompt Lookup Decoding using OpenVINO™](./prompt-lookup-decoding/prompt-lookup-decoding.ipynb)
 
 ## Convert
 
