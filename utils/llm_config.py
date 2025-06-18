@@ -789,6 +789,11 @@ def get_optimum_cli_command(model_id, weight_format, output_dir, compression_opt
             compression_args += " --awq --dataset wikitext2 --num-samples 128"
             if compression_options.get("scale_estimation", False):
                 compression_args += " --scale-estimation"
+        else:
+            if compression_options.get("scale_estimation", False):
+                compression_args += " --scale-estimation"
+            if "dataset" in compression_options:
+                compression_args += f" --dataset {compression_options['dataset']}"
         if compression_options.get("all_layers", False):
             compression_args += " --all-layers"
 
