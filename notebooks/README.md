@@ -5,6 +5,7 @@
 ## AI Trends
 
 - [Video generation with ZeroScope and OpenVINO](./zeroscope-text2video/zeroscope-text2video.ipynb)
+- [Text-to-image generation with Z-Image-Turbo and OpenVINO](./z-image-turbo/z-image-turbo.ipynb)
 - [Convert and Optimize YOLOv9 with OpenVINO™](./yolov9-optimization/yolov9-optimization.ipynb)
 - [Convert and Optimize YOLOv8 real-time object detection with OpenVINO™](./yolov8-optimization/yolov8-object-detection.ipynb)
 - [YOLOv8 Oriented Bounding Boxes Object Detection with OpenVINO™](./yolov8-optimization/yolov8-obb.ipynb)
@@ -195,6 +196,7 @@
 ## Model Demos
 
 - [Video generation with ZeroScope and OpenVINO](./zeroscope-text2video/zeroscope-text2video.ipynb)
+- [Text-to-image generation with Z-Image-Turbo and OpenVINO](./z-image-turbo/z-image-turbo.ipynb)
 - [Convert and Optimize YOLOv9 with OpenVINO™](./yolov9-optimization/yolov9-optimization.ipynb)
 - [Convert and Optimize YOLOv8 real-time object detection with OpenVINO™](./yolov8-optimization/yolov8-object-detection.ipynb)
 - [YOLOv8 Oriented Bounding Boxes Object Detection with OpenVINO™](./yolov8-optimization/yolov8-obb.ipynb)
