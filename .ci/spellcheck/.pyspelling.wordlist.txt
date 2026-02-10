@@ -171,6 +171,7 @@ CTM
 CUDA
 CustomEncoderWav
 customizable
+CustomVoice
 CVF
 CVPR
 DarkIR
@@ -779,6 +780,7 @@ panoptic
 parallelized
 parameterization
 parametrize
+paralinguistic
 Parler
 parsers
 patchifying
@@ -1102,6 +1104,7 @@ TripoSR
 Tsinghua
 TsinghuaNLP
 TTS
+TTSModel
 tunable
 tv
 TwoStreamInterleaveTransformer
@@ -1175,6 +1178,7 @@ VOC
 Vocoder
 vocoder
 vocoding
+VoiceDesign
 voxel
 Voxelization
 voxelization
