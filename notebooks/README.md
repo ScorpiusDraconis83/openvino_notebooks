@@ -294,6 +294,7 @@
 - [Visual Question Answering and Image Captioning using BLIP and OpenVINO](./blip-visual-language-processing/blip-visual-language-processing.ipynb)
 - [Text-to-speech generation using Bark and OpenVINO](./bark-text-to-audio/bark-text-to-audio.ipynb)
 - [Image-to-Video synthesis with AnimateAnyone and OpenVINO](./animate-anyone/animate-anyone.ipynb)
+- [Imitation Learning - ACT](./aloha-act/aloha-act.ipynb)
 - [Music generation using ACE Step and OpenVINO](./ace-step-music-generation/ace-step-music-generation.ipynb)
 - [Part Segmentation of 3D Point Clouds with OpenVINO™](./3D-segmentation-point-clouds/3D-segmentation-point-clouds.ipynb)
 - [**PointPillar for 3D object detection**](./3D-point-pillars/pointpillars.ipynb)
